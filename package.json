@@ -1,0 +1,14 @@
+{
+  "name": "github-annual-report",
+  "version": "1.0.0",
+  "description": "Generates a quick report with your Github commits for the last year ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  }
+}
